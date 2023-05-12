@@ -1,0 +1,4 @@
+{
+    "serverAddress": "http://192.168.43.163", // ipconfig getifaddr en0
+    "serverPort": "3000"
+}
